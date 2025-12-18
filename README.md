@@ -42,7 +42,7 @@ Open `index.html` in browser or use Live Server.
 
 ## Deployment
 Deployed on GitHub Pages.  
-Live demo: https://github.com/drop-chik?tab=repositories
+Live demo: https://drop-chik.github.io/personal-portfolio/
 
 ## Author
 Vladyslav Kravchenko  
