@@ -36,6 +36,7 @@ Includes HTML, CSS, and JavaScript demos, and a contact form.
 |--index.html  
 |--README.md  
 </pre>
+
 ## Setup
 No build tools required.  
 Open `index.html` in browser or use Live Server.
