@@ -25,6 +25,7 @@ Includes HTML, CSS, and JavaScript demos, and a contact form.
 - JavaScript (ES6+)
 
 ## Project Structure
+<pre>
 |--src/  
 |  |--assets/  
 |  |  |--img/  
@@ -34,7 +35,7 @@ Includes HTML, CSS, and JavaScript demos, and a contact form.
 |  |--data/  
 |--index.html  
 |--README.md  
-
+</pre>
 ## Setup
 No build tools required.  
 Open `index.html` in browser or use Live Server.
