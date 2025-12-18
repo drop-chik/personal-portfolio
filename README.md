@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 
 ## Description
-Personal portfolio website demonstrating frontend skills through interactive examples.
+Personal portfolio website demonstrating frontend skills through interactive examples.  
 Includes HTML, CSS, and JavaScript demos, and a contact form.
 
 ## Goals
@@ -25,23 +25,23 @@ Includes HTML, CSS, and JavaScript demos, and a contact form.
 - JavaScript (ES6+)
 
 ## Project Structure
-|--src/
-|  |--assets/
-|  |  |--img/
-|  |  |--icons/
-|  |--css/
-|  |--js/
-|  |--data/
-|--index.html
-|--README.md
+|--src/  
+|  |--assets/  
+|  |  |--img/  
+|  |  |--icons/  
+|  |--css/  
+|  |--js/  
+|  |--data/  
+|--index.html  
+|--README.md  
 
 ## Setup
-No build tools required.
+No build tools required.  
 Open `index.html` in browser or use Live Server.
 
 ## Deployment
-Deployed on GitHub Pages.
-Live demo:
+Deployed on GitHub Pages.  
+Live demo: https://github.com/drop-chik?tab=repositories
 
 ## Author
 Vladyslav Kravchenko  
